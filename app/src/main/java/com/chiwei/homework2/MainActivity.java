@@ -21,6 +21,7 @@ import org.opencv.imgproc.Imgproc;
 import org.opencv.objdetect.QRCodeDetector;
 
 public class MainActivity extends AppCompatActivity {
+    //Chi-Wei Chen 陳頎崴
     ImageView imageView;
     TextView textView;
     @Override
